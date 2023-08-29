@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cicken Coop Survival
-- 🌱 I’m currently learning Unity 2D Gaming
-- 💬 Ask me about im 41 Years Old, from Germany
+###- 🔭 I’m currently working on Cicken Coop Survival
+###- 🌱 I’m currently learning Unity 2D Gaming
+###- 💬 Ask me about im 41 Years Old, from Germany
 
 - ⚡ Fun fact: ...
 -->
